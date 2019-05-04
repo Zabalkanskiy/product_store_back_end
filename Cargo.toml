@@ -1,0 +1,11 @@
+[package]
+name = "product_store_back"
+version = "0.1.0"
+authors = ["sancos"]
+edition = "2018"
+
+[dependencies]
+hyper = "*"
+lazy_static = "*"
+regex = "*"
+futures = "*"
